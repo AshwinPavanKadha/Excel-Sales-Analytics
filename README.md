@@ -21,9 +21,9 @@ A detailed project to find Insights from scratch for Marketing and Finance Teams
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AshwinPavanKadha/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Year.pdf)_ & _[Months](https://github.com/AshwinPavanKadha/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/AshwinPavanKadha/Excel-Sales-Analytics/blob/main/Detailed%20market%20analysis.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
@@ -33,15 +33,19 @@ A detailed project to find Insights from scratch for Marketing and Finance Teams
 
 
 ## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+- [x]	Mastering the Basics like cell formats, started with basic formulas like IF, SUMIF, COUNT, LOOKUPS (VLOOKUP, HLOOKUP, XLOOKUP) , INDEX & MATCH
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load) from various sources.
+- [x]	Mastered the Skills to generate a date table, clean data and transform data using Power Query.
+- [x]	Slicing & summarizing the data using Pivot table based on stake holder goal
+- [x]	Ability to derive fiscal months and quarters as needed.
+- [x]	Establishing data model relationships with Power Pivot and Data Modelling , Relations.
+- [x]	Utilizing DAX to create calculated columns and measures like SUM,SUMX, CALCULATE.
+- [x]	Created appealing visuals 📊 using the features of diverse charts and formatted them to make presentable.
+- [x]	Derived insights 🔎 focused on stake holder goals which significantly helps in decision making 📉 for Marketing and Finance teams at AtliQ Hardware 
 
 ## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Refined understanding of Sales & Finance Reports and importance of data informed decision making
+- [x]	Gained the knowledge about the factors involved in decision making 
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
