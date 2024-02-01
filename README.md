@@ -38,7 +38,7 @@ A detailed project to find Insights from scratch for Marketing and Finance Teams
 - [x]	Mastered the Skills to generate a date table, clean data and transform data using Power Query.
 - [x]	Slicing & summarizing the data using Pivot table based on stake holder goal
 - [x]	Ability to derive fiscal months and quarters as needed.
-- [x]	Establishing data model relationships with Power Pivot and Data Modelling , Relations.
+- [x]	Establishing data model relationships with Power Pivot ⚡ and Data Modelling , Relations.
 - [x]	Utilizing DAX to create calculated columns and measures like SUM,SUMX, CALCULATE.
 - [x]	Created appealing visuals 📊 using the features of diverse charts and formatted them to make presentable.
 - [x]	Derived insights 🔎 focused on stake holder goals which significantly helps in decision making 📉 for Marketing and Finance teams at AtliQ Hardware 
